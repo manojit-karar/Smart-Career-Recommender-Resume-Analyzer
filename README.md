@@ -71,4 +71,4 @@ streamlit run app.py
 
 **Manojit Karar**  
 📫 manojitkarar8@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/manojitkarar/) | [GitHub](https://github.com/MANOJIT-karar)
+🌐 [LinkedIn](https://www.linkedin.com/in/manojitkarar/) | [GitHub](https://github.com/manojit-karar)
